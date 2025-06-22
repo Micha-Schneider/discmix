@@ -1,4 +1,4 @@
-# DiscMix (R Package for Discrete Mixtures)
+# DiscMix (R Package for Discrete Mixtures by Micha Schneider)
 This R package fits discrete finite mixture models (such as CUB, CUP, BetaBin and cure models). It can perform unpenalized model estimation (discmix()), variable selection via penalization (penmix()) and forward selection (stepmix()), and bootstrap samples for standard errors (se.discmix()). 
 
 So far, the package only works with R versions up to 3.6.3, as there are some internal dependencies. It is recommended to have at least the following packages installed:
